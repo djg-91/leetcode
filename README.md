@@ -1,2 +1,2 @@
 # leetcode
-A repository with the Leetcode's problems I've done
+A repository with the LeetCode's problems I've done
