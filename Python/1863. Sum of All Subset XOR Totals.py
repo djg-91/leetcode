@@ -1,7 +1,5 @@
 '''
-https://leetcode.com/problems/sum-of-all-subset-xor-totals
-
-    --- 1863. Sum of All Subset XOR Totals ---
+    https://leetcode.com/problems/sum-of-all-subset-xor-totals
 
     The XOR total of an array is defined as the bitwise XOR of all its elements, or 0 if the array is empty.
 
@@ -22,7 +20,6 @@ https://leetcode.com/problems/sum-of-all-subset-xor-totals
     - [3] has an XOR total of 3.
     - [1,3] has an XOR total of 1 XOR 3 = 2.
     0 + 1 + 3 + 2 = 6
-
 '''
 
 from typing import List
