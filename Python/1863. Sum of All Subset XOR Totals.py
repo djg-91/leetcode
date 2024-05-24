@@ -1,5 +1,5 @@
 '''
-    https://leetcode.com/problems/sum-of-all-subset-xor-totals
+https://leetcode.com/problems/sum-of-all-subset-xor-totals
 
     The XOR total of an array is defined as the bitwise XOR of all its elements, or 0 if the array is empty.
 
