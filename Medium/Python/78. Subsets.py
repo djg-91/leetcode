@@ -14,7 +14,6 @@ https://leetcode.com/problems/subsets/
 
         Input: nums = [0]
         Output: [[],[0]]
-
 '''
 
 from typing import List
