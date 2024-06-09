@@ -47,6 +47,7 @@ https://leetcode.com/problems/final-value-of-variable-after-performing-operation
         operations[i] will be either "++X", "X++", "--X", or "X--".
 '''
 
+
 from typing import List
 from collections import Counter 
 

@@ -24,6 +24,7 @@ https://leetcode.com/problems/sum-of-all-subset-xor-totals
         0 + 1 + 3 + 2 = 6
 '''
 
+
 from typing import List
 from itertools import combinations
 from functools import reduce

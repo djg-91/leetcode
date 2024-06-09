@@ -30,6 +30,7 @@ Constraints:
     1 <= nums[i] <= 1000
 '''
 
+
 from typing import List
 
 class Solution:

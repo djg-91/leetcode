@@ -47,6 +47,7 @@ First attempt. Didn't work 😅
             return max_area
 '''
 
+
 class Solution:
     def maxArea(self, heights: List[int]) -> int:
         heights_size = len(heights)

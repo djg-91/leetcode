@@ -32,6 +32,7 @@ https://leetcode.com/problems/build-array-from-permutation
         The elements in nums are distinct.
 '''
 
+
 from typing import List
 
 class Solution:

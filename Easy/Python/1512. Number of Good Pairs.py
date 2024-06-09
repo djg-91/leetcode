@@ -28,6 +28,7 @@ https://leetcode.com/problems/number-of-good-pairs
         1 <= nums[i] <= 100
 '''
 
+
 from typing import List
 from collections import Counter
 from math import comb 
