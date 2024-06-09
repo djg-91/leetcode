@@ -32,7 +32,6 @@ from typing import List
 from collections import Counter
 from math import comb 
 
-
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
         counter = {k: v for k, v in Counter(nums).items() if v > 1}

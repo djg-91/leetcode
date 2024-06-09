@@ -19,7 +19,6 @@ https://leetcode.com/problems/subsets/
 from typing import List
 from itertools import combinations
 
-
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         result = [[]]

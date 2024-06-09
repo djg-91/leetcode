@@ -28,7 +28,6 @@ from typing import List
 from itertools import combinations
 from functools import reduce
 
-
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
         

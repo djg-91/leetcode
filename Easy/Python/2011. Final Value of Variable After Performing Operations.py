@@ -50,7 +50,6 @@ https://leetcode.com/problems/final-value-of-variable-after-performing-operation
 from typing import List
 from collections import Counter 
 
-
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:
         res = 0
